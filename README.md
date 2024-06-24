@@ -1,4 +1,4 @@
-![image-2.png](attachment:image-2.png)
+[![image-2.png](attachment:image-2.png)](https://storage.googleapis.com/kaggle-datasets-images/3258/5337/0dade1b95b22cceac471b309fc8a8f63/dataset-cover.png)
 
 ## Student Names and Registration Numbers
 
