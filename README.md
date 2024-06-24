@@ -11,13 +11,13 @@ This project uses machine learning to recognize American Sign Language (ASL) let
 **Sithumini** - Contributor
 
 [![Aralugaswaththa CVCRP](https://avatars.githubusercontent.com/u/CPrasa?v=4)](https://github.com/CPrasa)  
-**Sivasothy Tharsi** - Developer
+**Aralugaswaththa CVCRP** - Contributor
 
 [![Madhunicka](https://avatars.githubusercontent.com/u/Madhunicka?v=4)](https://github.com/Madhunicka)  
 **Mathanamohan Madhunicka** - Contributor
 
 [![Tharsi](https://avatars.githubusercontent.com/u/Sivasothy-Tharsi?v=4)](https://github.com/Sivasothy-Tharsi)  
-**Sivasothy Tharsi** - Developer
+**Sivasothy Tharsi** - Contributor
 
 Aralugaswaththa CVCRP
 
