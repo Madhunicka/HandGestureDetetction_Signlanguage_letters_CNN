@@ -19,8 +19,6 @@ This project uses machine learning to recognize American Sign Language (ASL) let
 [![Tharsi](https://avatars.githubusercontent.com/u/Sivasothy-Tharsi?v=4)](https://github.com/Sivasothy-Tharsi)  
 **Sivasothy Tharsi** - Contributor
 
-Aralugaswaththa CVCRP
-
 ## Student Names and Registration Numbers
 
 - Amarasinghe WLSK (EG_2020_3818)
