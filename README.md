@@ -7,8 +7,11 @@ This project uses machine learning to recognize American Sign Language (ASL) let
 
 ## Contributors
 
-[![Sithumini](https://avatars.githubusercontent.com/u/Madhunicka?v=4)](https://github.com/sithuminikaushalya)  
+[![Sithumini](https://avatars.githubusercontent.com/u/sithuminikaushalya?v=4)](https://github.com/sithuminikaushalya)  
 **Sithumini** - Contributor
+
+[![Aralugaswaththa CVCRP](https://avatars.githubusercontent.com/u/CPrasa?v=4)](https://github.com/CPrasa)  
+**Sivasothy Tharsi** - Developer
 
 [![Madhunicka](https://avatars.githubusercontent.com/u/Madhunicka?v=4)](https://github.com/Madhunicka)  
 **Mathanamohan Madhunicka** - Contributor
@@ -16,7 +19,7 @@ This project uses machine learning to recognize American Sign Language (ASL) let
 [![Tharsi](https://avatars.githubusercontent.com/u/Sivasothy-Tharsi?v=4)](https://github.com/Sivasothy-Tharsi)  
 **Sivasothy Tharsi** - Developer
 
-
+Aralugaswaththa CVCRP
 
 ## Student Names and Registration Numbers
 
