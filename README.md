@@ -1,4 +1,5 @@
-[![image-2.png](attachment:image-2.png)](https://storage.googleapis.com/kaggle-datasets-images/3258/5337/0dade1b95b22cceac471b309fc8a8f63/dataset-cover.png)
+![dataset-cover (2)](https://github.com/Madhunicka/HandGestureDetetction_Signlanguage_letters_CNN/assets/77634975/73cd82a5-2632-41c3-a484-ebae1d30472d)
+
 
 ## Student Names and Registration Numbers
 
