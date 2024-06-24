@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASL Gesture Recognition</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        img {
+            border: 2px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>ASL Gesture Recognition</h1>
+    <button onclick="startCamera()">Start Camera</button>
+    <button onclick="stopCamera()">Stop Camera</button>
+    <br><br>
+    <img id="video" width="640" height="480" src="">
+
+    <script>
+        function startCamera() {
+            const video = document.getElementById('video');
+            video.src = "/video_feed";
+        }
+
+        function stopCamera() {
+            const video = document.getElementById('video');
+            video.src = "";
+        }
+    </script>
+</body>
+</html>
